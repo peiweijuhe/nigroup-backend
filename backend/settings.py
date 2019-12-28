@@ -139,5 +139,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:3000",
     "http://localhost:8080",
-    "http://localhost:8000"
+    "http://localhost:8000",
+    "http://www.ee.cuhk.edu.hk/~gdzhou",
+    "https://inni.group/ni",
 ]
